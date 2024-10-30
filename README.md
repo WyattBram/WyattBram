@@ -2,9 +2,9 @@
 
 ## About Me
 - **Interests:**
-  - Networking and Operating Systems
+  - Networking and Operating Systems                          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs&card_length=10000)
   - Shell Scripting / Automation
-  - Programming Languages
+  - Programming Languages                                     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5)
   - Software Development Practices
 
 - **Currently Learning:**
@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs&card_length=10000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5)
+
+
 
 </div>
 
