@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs&card_length=600)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs&card_length=1000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5)
 
