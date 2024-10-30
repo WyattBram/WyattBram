@@ -1,17 +1,20 @@
+<div align="center">
+
 # 👋 Hi, I’m Wyatt
 
 ## About Me
-- **Interests:**
-  - Networking and Operating Systems                          
-  - Shell Scripting / Automation
-  - Programming Languages                                     
-  - Software Development Practices
 
-- **Currently Learning:**
-  - Go
-  - Bash
-  - Network Protocols
-  - System Design
+<div align="center">
+
+| **Interests**                             | **Currently Learning**                      |
+|-------------------------------------------|---------------------------------------------|
+| Networking and Operating Systems          | Go                                          |
+| Shell Scripting / Automation              | Bash                                        |
+| Programming Languages                     | Network Protocols                           |
+| Software Development Practices            | System Design                               |
+
+
+
 
 ## GitHub Stats
 
@@ -21,10 +24,6 @@
 | Languages | GitHub Stats |
 |-----------------|--------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs) |
-
-
-
-
 
 
 
