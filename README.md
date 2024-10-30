@@ -6,13 +6,13 @@
 
 
 
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark)
 
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&them=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark)
 
 
 <!---
