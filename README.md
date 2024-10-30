@@ -14,6 +14,14 @@
 
 
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WyattBram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 
 <!---
 WyattBram/WyattBram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
