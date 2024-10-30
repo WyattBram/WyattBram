@@ -1,8 +1,17 @@
 # 👋 Hi, I’m Wyatt
 
 ## About Me
-- **Interests:** Networking and Operating Systems
-- **Currently Learning:** Go!
+- **Interests:**
+  - Networking and Operating Systems
+  - Shell Scripting / Automation
+  - Programming Languages
+  - Software Development Practices
+
+- **Currently Learning:**
+  - Go
+  - Bash
+  - Network Protocols
+  - System Design
 
 ## GitHub Stats
 
