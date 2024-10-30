@@ -6,15 +6,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5)
 
 
-
-
-
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WyattBram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
