@@ -1,22 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I’m Wyatt
-
-
-
-## About Me
-
-<div align="center">
-
-| **Interests**                             | **Currently Learning**                      |
-|-------------------------------------------|---------------------------------------------|
-| Networking and Operating Systems          | Go                                          |
-| Shell Scripting / Automation              | Bash                                        |
-| Programming Languages                     | Network Protocols                           |
-| Software Development Practices            | System Design                               |
-
-
-
+I currently work for Assurant as an IT intern and am passionate about software development.
 
 ## GitHub Stats
 
@@ -26,6 +11,7 @@
 | Languages | GitHub Stats |
 |-----------------|--------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WyattBram&layout=compact&theme=onedark&hide=AMPL&size_weight=0.5&count_weight=0.5) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyattBram&theme=onedark&hide=prs) |
+
 
 
 
